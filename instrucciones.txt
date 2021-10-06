@@ -1,0 +1,3 @@
+1. buscar refacciones
+2. buscar herramientas
+3. cambiar llanta
